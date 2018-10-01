@@ -217,7 +217,7 @@
                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="25"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences" keyboardType="numberPad" enablesReturnKeyAutomatically="YES"/>
                             </textView>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" directionalLockEnabled="YES" bounces="NO" scrollEnabled="NO" bouncesZoom="NO" keyboardDismissMode="onDrag" text="0" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="x4C-Jc-Okn">
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" directionalLockEnabled="YES" bounces="NO" scrollEnabled="NO" bouncesZoom="NO" keyboardDismissMode="onDrag" text="65" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="x4C-Jc-Okn">
                                 <rect key="frame" x="222" y="117" width="80" height="50"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
