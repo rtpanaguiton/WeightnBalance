@@ -22,6 +22,7 @@ class DetailsViewController: UIViewController, UITextViewDelegate, UIImagePicker
     
     var aircraft: Aircraft?
     
+    
     override func viewDidLoad() {
         super.viewDidLoad()
      
