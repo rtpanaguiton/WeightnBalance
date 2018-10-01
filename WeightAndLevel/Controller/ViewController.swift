@@ -46,6 +46,7 @@ class ViewController: UIViewController, UITextViewDelegate, UITabBarDelegate  {
          print(baggageWeight.text)
         }}}
     
+    
     @IBOutlet weak var totalWeightLabel: UILabel!
 
     @IBOutlet weak var centerOfGravityLabel: UILabel!
