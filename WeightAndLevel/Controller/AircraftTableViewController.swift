@@ -160,6 +160,7 @@ class AircraftTableViewController: UITableViewController {
             fatalError("Aircraft2 unable to instantiate")
         }
 
+        
         guard let aircraft3 = Aircraft(name: "BO105", photo: photo3Data, registrationNumber: "9M-LLE", centerOfGravity: 1.3458, emptyWeight: 2500.0) else {
             fatalError(" Unable to instantiate aircraft3")
         }
